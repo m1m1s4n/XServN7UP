@@ -1,0 +1,26 @@
+
+
+# Markdown
+
+highlighter: true
+
+# Defaults
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: "default"
+      og_type: article
+      type: article
+      category: "Others"
+      excerpt_separator: "<!--more-->"
+      prism_languages: []
+
+# Site info
+
+url: https://github.com/m1m1s4n/XserN7UP.git
+title: Changelog Mikhmon V3
+
+repository: m1m1s4n/zoe
